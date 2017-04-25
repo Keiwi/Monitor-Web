@@ -22,3 +22,9 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+*.hjson
+*.json
+*.patch
+*.log
+.vscode
